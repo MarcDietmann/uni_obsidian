@@ -1,0 +1,1 @@
+Diese Dokumente sollen dazu dienen das Modul *Grundlagen des Rechts elektronischer Medien* an einem Fallbeispiel durchzugehen. Bei dem Fallbeispiel muss sich ein Softwareentwickler mit dem Urheber Gesetzt auseinander setzten, um seine Leistung zu schützten.

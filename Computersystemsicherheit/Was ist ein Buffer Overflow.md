@@ -1,0 +1,1 @@
+In einer Buffer Overflow Attack nutz man die Tatsache aus, dass alles in einem Computer wie in einem Stack funktioniert. Man führt seine Funktion aus, fügt Parameter hinzu... All das befüllt den Stack. Ein Teil des Stacks ist die Return Adresse. Wird jetzt die Return Adresse durch diese Attacke überschrieben kann man dadurch eine Software ausführen, die Böses will. 
